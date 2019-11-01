@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Sit2Long</string>
+    <string name="notification_title">Sit2Long</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="elapsed_minutes">Elapsed minutes</string>
+    <string name="initial_time">00:00</string>
+    <string name="current_activity">No Activity</string>
+    <string name="activity_elapsed_minutes">%02d:%02d</string>
+    <string name="over_sitting_warning">
+        Please! You have exhausted max. minutes of being still.
+        Try other activities like walking to stretch your muscles.
+    </string>
+    <string name="over_sitting_warning_notification">
+        You have been still for about <b>%d minutes</b>.
+        Try stretching your body(e.g. Walking, Running,…) for your good health.
+        Being stationary for too long damages vertebral column.
+    </string>
 </resources>
